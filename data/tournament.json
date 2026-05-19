@@ -1,0 +1,31 @@
+{
+  "name": "Новый турнир",
+  "stage": "single",
+  "players": [
+    {
+      "id": 1,
+      "name": "Гучев Аслан",
+      "club": "Нальчик (1)",
+      "rating": ""
+    },
+    {
+      "id": 2,
+      "name": "Табухов Джабраил",
+      "club": "Лескен",
+      "rating": ""
+    }
+  ],
+  "matches": [
+    {
+      "id": 1,
+      "round": 1,
+      "player1_id": 1,
+      "player2_id": 2,
+      "player1_name": "Гучев Аслан",
+      "player2_name": "Табухов Джабраил",
+      "score1": "5",
+      "score2": "8",
+      "status": "Завершено"
+    }
+  ]
+}
